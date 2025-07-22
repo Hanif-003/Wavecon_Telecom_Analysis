@@ -10,9 +10,9 @@ This project presents a comprehensive analysis of Wavecon Telecom’s key perfor
 
 - **Revenue Impact:**
   
-  -- Total Revenue : 31.87 millions
+  - Total Revenue : 31.87 millions
 
-  -- Before the 5G Launch: Wavecon Telecom was generating a revenue of ₹15.98 million.
+  - Before the 5G Launch: Wavecon Telecom was generating a revenue of ₹15.98 million.
 
   -- After the 5G Launch: Revenue slightly decreased to ₹15.90 billion.
 
