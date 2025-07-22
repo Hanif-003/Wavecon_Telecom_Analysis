@@ -22,7 +22,7 @@ This project presents a comprehensive analysis of Wavecon Telecom’s key perfor
 
 ## 2. Which KPI is underperforming after the 5G launch?
 
-- **Underperforming KPIs:**
+### Underperforming KPIs :
 
   **REVENUE**
  
@@ -36,7 +36,7 @@ This project presents a comprehensive analysis of Wavecon Telecom’s key perfor
 
   - Analysis: This decline in revenue is a direct reflection of the challenges faced during the transition to 5G, including market competition and user behavior changes.
 
- **ACTIVE USERS**
+  **ACTIVE USERS**
 
   - Total Active Users:162 million
 
@@ -52,7 +52,7 @@ This project presents a comprehensive analysis of Wavecon Telecom’s key perfor
 
   ## 3. After the 5G launch, which plans are performing well in terms of revenue? Which plans are not performing well?
 
-  **Top Performing Plans:**
+  ### Top Performing Plans :
 
   - P1  **Smart recharge pack (2 GB / Day Combo For 3 Months)**
   
@@ -74,15 +74,15 @@ This project presents a comprehensive analysis of Wavecon Telecom’s key perfor
 
   - P11  **Ultra Fast Mega pack(3 GB / Day combo for 80 Days)**
 
-   - After 5G : 1.86 M 
+      - After 5G : 1.86 M 
 
   - P12  **Ultra duo Data pack(1.8 GB / Day combo For 55 Days)**
 
-   - After 5G : 1.16 M 
+      - After 5G : 1.16 M 
 
   - P13  **Mini Ultra Saver pack(750 MB / Day For 28 Days)**
 
-   - After 5G : 314.50 K 
+      - After 5G : 314.50 K 
 
 **Underperforming Plans:**
 
@@ -104,23 +104,23 @@ This project presents a comprehensive analysis of Wavecon Telecom’s key perfor
 
 - P8  **Daily Saviour(1 GB / Day) Validity : 1Day**
 
-      - Before 5G : 434.30 K
-   
-      - After 5G : 0
+  - Before 5G : 434.30 K
+
+  - After 5G : 0
 
 - P9  **Combo Top Up:14.95 Talktime and 300 MB Data**
 
-      - Before 5G : 226.80 K
-   
-      - After 5G : 0 
+  - Before 5G : 226.80 K
+
+  - After 5G : 0 
 
 - P10  **Big Combo pack(6 GB / Day) Validity 3 Days**
 
-      - Before 5G : 131.10 K
-   
-      - After 5G : 0
+  - Before 5G : 131.10 K
 
-- **Discontinue P8,P9,P10 Plans**
+  - After 5G : 0
+
+**Suggestion:** Discontinue P8,P9,P10 Plans
 
 ## 5. Is there any plan that is discontinued after the 5G launch? What is the reason for it?
 
@@ -130,4 +130,4 @@ This project presents a comprehensive analysis of Wavecon Telecom’s key perfor
 
 - P10  **Big Combo pack(6 GB / Day) Validity 3 Days**
 
-- **5G Network gives UnLimited Talk Time And UnLimited Internet**
+**REASON:** 5G Network gives UnLimited Talk Time And UnLimited Internet
