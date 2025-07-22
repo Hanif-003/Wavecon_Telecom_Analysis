@@ -14,11 +14,11 @@ This project presents a comprehensive analysis of Wavecon Telecom’s key perfor
 
   - Before the 5G Launch: Wavecon Telecom was generating a revenue of ₹15.98 million.
 
-  -- After the 5G Launch: Revenue slightly decreased to ₹15.90 billion.
+  - After the 5G Launch: Revenue slightly decreased to ₹15.90 billion.
 
-  -- Net Loss: This represents a loss of ₹8 crores.
+  - Net Loss: This represents a loss of ₹8 crores.
 
-  -- Revenue Change percentage (%) : 0.50 %
+  - Revenue Change percentage (%) : 0.50 %
 
 ## 2. Which KPI is underperforming after the 5G launch?
 
@@ -26,29 +26,29 @@ This project presents a comprehensive analysis of Wavecon Telecom’s key perfor
 
   **REVENUE**
  
-  -- Total Revenue:31.87 million
+  - Total Revenue:31.87 million
   
-  -- Before 5G Launch: ₹15.98 million.
+  - Before 5G Launch: ₹15.98 million.
   
-  -- After 5G Launch: ₹15.90 million.
+  - After 5G Launch: ₹15.90 million.
   
-  -- Revenue Decrease: ₹8 crores.
+  - Revenue Decrease: ₹8 crores.
 
-  -- Analysis: This decline in revenue is a direct reflection of the challenges faced during the transition to 5G, including market competition and user behavior changes.
+  - Analysis: This decline in revenue is a direct reflection of the challenges faced during the transition to 5G, including market competition and user behavior changes.
 
 **ACTIVE USERS**
 
-  -- Total Active Users:162 million
+  - Total Active Users:162 million
 
-  -- Before 5G Launch: 84 million
+  - Before 5G Launch: 84 million
   
-  -- After 5G Launch: 77 million
+  - After 5G Launch: 77 million
 
-  -- User Drop: 7 million
+  - User Drop: 7 million
 
-  -- change percentage : 8.28 %
+  - change percentage : 8.28 %
 
-  -- Analysis: The significant drop in active users highlights issues such as price sensitivity, adoption challenges, and possibly inadequate customer retention strategies during the rollout of 5G.
+  - Analysis: The significant drop in active users highlights issues such as price sensitivity, adoption challenges, and possibly inadequate customer retention strategies during the rollout of 5G.
 
   ## 3. After the 5G launch, which plans are performing well in terms of revenue? Which plans are not performing well?
 
