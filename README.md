@@ -36,7 +36,7 @@ This project presents a comprehensive analysis of Wavecon Telecom’s key perfor
 
   - Analysis: This decline in revenue is a direct reflection of the challenges faced during the transition to 5G, including market competition and user behavior changes.
 
-**ACTIVE USERS**
+ **ACTIVE USERS**
 
   - Total Active Users:162 million
 
@@ -54,17 +54,35 @@ This project presents a comprehensive analysis of Wavecon Telecom’s key perfor
 
   **Top Performing Plans:**
 
-  - P1
+  - P1  **Smart recharge pack (2 GB / Day Combo For 3 Months)**
+  
+      - Before 5G : 1.81 M
+   
+      - After 5G : 2.39 M 
 
-  - P2
+  - P2  **Super Saviour pack(1.5 GB / Day combo For 56 Days)**
 
-  - P3
+      - Before 5G : 1.49 M
+   
+      - After 5G : 1.49 M 
 
-  - P11
+  - P3  **Elite Saver pack(1 GB / Day) Valid : 28 Days**
 
-  - P12
+      - Before 5G : 1.32 M
+   
+      - After 5G : 1.30 M 
 
-  - P13
+  - P11  **Ultra Fast Mega pack(3 GB / Day combo for 80 Days)**
+
+   - After 5G : 1.86 M 
+
+  - P12  **Ultra duo Data pack(1.8 GB / Day combo For 55 Days)**
+
+   - After 5G : 1.16 M 
+
+  - P13  **Mini Ultra Saver pack(750 MB / Day For 28 Days)**
+
+   - After 5G : 314.50 K 
 
 **Underperforming Plans:**
 
@@ -84,16 +102,32 @@ This project presents a comprehensive analysis of Wavecon Telecom’s key perfor
 
 ## 4. Is there any plan affected largely by the 5G launch? Should we continue or discontinue that plan?
 
-- P8
+- P8  **Daily Saviour(1 GB / Day) Validity : 1Day**
 
-- P9
+      - Before 5G : 434.30 K
+   
+      - After 5G : 0
 
-- P10
+- P9  **Combo Top Up:14.95 Talktime and 300 MB Data**
+
+      - Before 5G : 226.80 K
+   
+      - After 5G : 0 
+
+- P10  **Big Combo pack(6 GB / Day) Validity 3 Days**
+
+      - Before 5G : 131.10 K
+   
+      - After 5G : 0
+
+- **Discontinue P8,P9,P10 Plans**
 
 ## 5. Is there any plan that is discontinued after the 5G launch? What is the reason for it?
 
-- P8 
+- P8  **Daily Saviour(1 GB / Day) Validity : 1Day**
 
-- P9
+- P9  **Combo Top Up:14.95 Talktime and 300 MB Data**
 
-- P10
+- P10  **Big Combo pack(6 GB / Day) Validity 3 Days**
+
+- **5G Network gives UnLimited Talk Time And UnLimited Internet**
