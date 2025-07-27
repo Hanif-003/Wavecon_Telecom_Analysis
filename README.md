@@ -4,6 +4,8 @@
 
 This project presents a comprehensive analysis of Wavecon Telecom’s key performance metrics before and after the 5G launch in May 2022, with a focus on assessing its impact on revenue, plan performance, and critical KPIs across 15 major urban centers in India.
 
+[Click Here for Live Dash Board](https://app.powerbi.com/view?r=eyJrIjoiZGQ3MDJiYmEtMzhmMy00Y2Y4LWI5OGItZjgxN2U1N2IxM2I1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ## Tasks & Answers
 
 ## 1. What is the impact of the 5G launch on our revenue?
